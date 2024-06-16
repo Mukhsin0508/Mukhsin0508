@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mukhsin 
-- 👀 I’m interested in Python language deeply, learning ML, NLP, and data science. 
+- 👀 I’m interested in Python language deeply, learning ML, NLP, Django Web Dev and Data science. 
 - 🌱 I’m currently learning basics of Machine Learning like lianer regression and gradient descent...
 - 🔥 I'm currently working on a secret startup company named WiderAI.
 - 💞️ I’m looking to collaborate on creating LLM for ASI (Artificial Super Intelegence) 
