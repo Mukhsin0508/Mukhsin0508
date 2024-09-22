@@ -1,15 +1,9 @@
 <body id="top">  
   
-### Hi, I'm Mukhsin ✨ 	:man_technologist:
+### Hi, I'm Mukhsin ✨ 	:the technologist:
 
 > <p> A Python enthusiast and aspiring Machine Learning developer based in Uzbekistan 🇺🇿. <br />
 > I'm deeply interested in Python, ML, NLP, Django Web Dev, and Data Science. Always eager to learn and grow! </p>
-
-<p align="center">
-  <a href="https://github.com/Mukhsin0508">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mukhsin0508&show_icons=true&theme=radical" />
-  </a>
-</p>
 
 ### Technologies
 - - - -
@@ -39,6 +33,12 @@
 
 ### My Github Stats 
 - - - -
+
+<p align="left">
+  <a href="https://github.com/Mukhsin0508">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mukhsin0508&show_icons=true&theme=radical" />
+  </a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhsin0508&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Mukhsin0508)
 
