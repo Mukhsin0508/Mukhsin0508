@@ -7,8 +7,10 @@
 
 ### Badges
 <p align="left">
-  <p> I got the Hacktoberfest 2024: Registered badge from Hacktoberfest! </p>
-  <img src="BADGE_IMAGE_URL_HERE](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest 2024: Registered Badge" width="200">
+  <p>I got the Hacktoberfest 2024: Registered badge from Hacktoberfest!</p>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1iy5wfd95850cl2xxm0wib6" target="_blank">
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest 2024: Registered Badge" width="200">
+  </a>
 </p>
 
 ### Technologies
