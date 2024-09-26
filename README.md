@@ -1,8 +1,7 @@
 <body id="top">  
   
 ### Hi, I'm Mukhsin ✨ :technologist:
-> <p> A Python enthusiast and aspiring Machine Learning developer based in Uzbekistan 🇺🇿. <br />
-> I'm deeply interested in Python, ML, NLP, Django Web Dev, and Data Science. Always eager to learn and grow! </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Python+enthusiast;Aspiring+Machine+Learning+developer;Based+in+Uzbekistan+🇺🇿;Interested+in+Python%2C+ML%2C+NLP%2C+Django;Always+eager+to+learn+and+grow!)](https://git.io/typing-svg)
 
 ### Badges
 
