@@ -1,14 +1,14 @@
 <body id="top">  
   
-### Hi, I'm Mukhsin ✨ 	:the technologist:
+### Hi, I'm Mukhsin ✨ :technologist:
 
 > <p> A Python enthusiast and aspiring Machine Learning developer based in Uzbekistan 🇺🇿. <br />
 > I'm deeply interested in Python, ML, NLP, Django Web Dev, and Data Science. Always eager to learn and grow! </p>
 
 ### Badges
 <p align="left">
-  > <p> I got the Hacktoberfest 2024: Registered badge from Hacktoberfest! <br /> </p>
-  <img href="https://www.holopin.io/userbadge/cm1iy5wfd95850cl2xxm0wib6 via @holopin_">
+  <p> I got the Hacktoberfest 2024: Registered badge from Hacktoberfest! </p>
+  <img src="[BADGE_IMAGE_URL_HERE](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)" alt="Hacktoberfest 2024: Registered Badge" width="200">
 </p>
 
 ### Technologies
