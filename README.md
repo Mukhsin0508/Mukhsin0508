@@ -1,7 +1,7 @@
 <body id="top">  
   
 ### Hi, I'm Mukhsin ✨ :technologist:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Python+enthusiast;Aspiring+Machine+Learning+developer;Based+in+Uzbekistan+🇺🇿;Interested+in+Python%2C+ML%2C+NLP%2C+Django;Always+eager+to+learn+and+grow!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=436&lines=A+Python+enthusiast;Aspiring+Backend+software+developer;Based+in+Uzbekistan+🇺🇿;Interested+in+Python%2C+ML%2C+NLP%2C+Web;Always+eager+to+learn+and+grow!)](https://git.io/typing-svg)
 
 ### Badges
 
