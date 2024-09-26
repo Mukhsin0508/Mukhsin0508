@@ -8,7 +8,7 @@
 ### Badges
 <p align="left">
   <p> I got the Hacktoberfest 2024: Registered badge from Hacktoberfest! </p>
-  <img src="[BADGE_IMAGE_URL_HERE](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)" alt="Hacktoberfest 2024: Registered Badge" width="200">
+  <img src="BADGE_IMAGE_URL_HERE](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest 2024: Registered Badge" width="200">
 </p>
 
 ### Technologies
