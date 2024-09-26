@@ -1,9 +1,8 @@
 <body id="top">  
   
-### Hi, I'm Mukhsin ✨ 👨‍💻 :The Technologist:
-
-> A Python enthusiast and aspiring Machine Learning developer based in Uzbekistan 🇺🇿.
-> I'm deeply interested in Python, ML, NLP, Django Web Dev, and Data Science. Always eager to learn and grow!
+### Hi, I'm Mukhsin ✨ :technologist:
+> <p> A Python enthusiast and aspiring Machine Learning developer based in Uzbekistan 🇺🇿. <br />
+> I'm deeply interested in Python, ML, NLP, Django Web Dev, and Data Science. Always eager to learn and grow! </p>
 
 ### Badges
 
