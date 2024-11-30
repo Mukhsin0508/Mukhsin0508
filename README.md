@@ -55,14 +55,18 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Mukhsin0508&theme=algolia&column=5">
 
 ## Wakatime Stats
-<p>
-  <img src="https://wakatime.com/share/@60731bfe-5801-4003-b6ab-b7db12ed73d0/63d64e1e-6bbc-414f-89a2-aa415884326a.svg" height="320" width="420">
-</p> 
+<figure><embed src="https://wakatime.com/share/@mukhsin/f627b0bc-90c7-4ab4-a394-aaa9f8a2db7f.svg"></embed></figure>
 
 ## Wakatime 
 <p>
   <img src="https://wakatime.com/share/@60731bfe-5801-4003-b6ab-b7db12ed73d0/5e63070d-9aae-48e1-bff7-7f8cc4f78dd4.svg">
 </p>
+
+## Old WakaTime
+## Wakatime Stats
+<p>
+  <img src="https://wakatime.com/share/@60731bfe-5801-4003-b6ab-b7db12ed73d0/63d64e1e-6bbc-414f-89a2-aa415884326a.svg" height="320" width="420">
+</p> 
 
 ### 📫 You can reach me here:  
 <a href="https://www.linkedin.com/in/mukhsin-mukhtorov-58b26221b/" target="_blank">
