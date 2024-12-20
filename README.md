@@ -47,8 +47,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhsin0508&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Mukhsin0508)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mukhsin0508&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Mukhsin's streak" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mukhsin0508&theme=highcontrast&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 
 ## Github Trophies
 
