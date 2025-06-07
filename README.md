@@ -3,7 +3,7 @@
   
 ### Hi, I'm Mukhsin ✨ :technologist: [![wakatime](https://wakatime.com/badge/user/60731bfe-5801-4003-b6ab-b7db12ed73d0.svg)](https://wakatime.com/@60731bfe-5801-4003-b6ab-b7db12ed73d0) [![github](https://img.shields.io/github/followers/Mukhsin0508?logo=github&style=plastic)](https://github.com/Mukhsin0508?tab=followers) [![twitter](https://img.shields.io/twitter/follow/@MukhsinMM7?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/@MukhsinMM7)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=A+Python+enthusiast;Aspiring+Backend+software+developer;Based+in+Uzbekistan+🇺🇿;Interested+in+Python%2C+ML%2C+NLP%2C+Web;Always+eager+to+learn+and+grow!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=A+Python+enthusiast;Aspiring+Backend+software+developer;AI+Agents+Builder+🇺🇿;Interested+in+Python%2C+ML%2C+NLP%2C+Web;Always+Learning+and+Contributing!)](https://git.io/typing-svg)
 
 ### Badges
 > I got the Hacktoberfest 2024: Registered badge from Hacktoberfest for starting my contribution to open-source projects!
