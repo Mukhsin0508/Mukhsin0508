@@ -5,12 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=A+Python+enthusiast;Aspiring+Backend+software+developer;AI+Agents+Builder+🇺🇿;Interested+in+Python%2C+ML%2C+NLP%2C+Web;Always+Learning+and+Contributing!)](https://git.io/typing-svg)
 
-### Badges
-> I got the Hacktoberfest 2024: Registered badge from Hacktoberfest for starting my contribution to open-source projects!
-<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1iy5wfd95850cl2xxm0wib6" target="_blank">
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest 2024: Registered Badge" width="200">
-</a>
-
 ### Technologies
 - - - -
 <p align="center">
