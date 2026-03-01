@@ -1,5 +1,3 @@
-# Mukhsin Mukhtorov
-
 AI infrastructure engineer. Building production multi-agent systems on LangGraph, Gemini, and Redis — multi-tenant, multi-role, multi-timezone.
 
 ---
@@ -25,7 +23,7 @@ AI infrastructure engineer. Building production multi-agent systems on LangGraph
 
 **Core:** Python · FastAPI · LangGraph · CrewAI · LangChain  
 **AI:** Gemini (context caching) · OpenAI (Whisper, TTS) · Mem0 · Qdrant  
-**Infra:** PostgreSQL · Redis · Celery · Docker · SQLAlchemy (async)  
+**Infra:** PostgreSQL · MongoDB · Redis · Celery · Docker · SQLAlchemy (async)  
 **Tooling:** uv · Alembic · Ruff · mypy · pytest
 
 ---
