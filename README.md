@@ -5,8 +5,7 @@ AI infrastructure engineer. Building production multi-agent systems on LangGraph
 ## What I'm working on
 
 - **Multi-agent AI platform** — role-based LangGraph agents with long-term memory (Mem0 + Qdrant), Gemini context caching, and timezone-aware task scheduling. Runs in production across multiple organizations.
-- **Gemini context caching at scale** — pre-baking tools + system instructions into `CachedContent` per role per scenario, achieving a 75% token cost reduction on cached prompts across all agent turns.
-- **LangGraph checkpoint management** — custom interrupt-safe pruning strategy (`keep_last=N`) to prevent tool re-execution in multi-tool interrupt chains on `AsyncRedisSaver`.
+- **Gemini context caching at scale** — pre-baking tools + system instructions into `CachedContent` per role per scenario, achieving a 85% token cost reduction on cached prompts across all agent turns.
 
 ---
 
