@@ -1,109 +1,38 @@
+# Mukhsin Mukhtorov
 
-<body id="top">  
-  
-### Hi, I'm Mukhsin ✨ :technologist: [![wakatime](https://wakatime.com/badge/user/60731bfe-5801-4003-b6ab-b7db12ed73d0.svg)](https://wakatime.com/@60731bfe-5801-4003-b6ab-b7db12ed73d0) [![github](https://img.shields.io/github/followers/Mukhsin0508?logo=github&style=plastic)](https://github.com/Mukhsin0508?tab=followers) [![twitter](https://img.shields.io/twitter/follow/@MukhsinMM7?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/@MukhsinMM7)
+AI infrastructure engineer. Building production multi-agent systems on LangGraph, Gemini, and Redis — multi-tenant, multi-role, multi-timezone.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=A+Python+enthusiast;Aspiring+Backend+software+developer;AI+Agents+Builder+🇺🇿;Interested+in+Python%2C+ML%2C+NLP%2C+Web;Always+Learning+and+Contributing!)](https://git.io/typing-svg)
+---
 
-### Technologies
-- - - -
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+## What I'm working on
 
-### My Github Stats 
-- - - -
+- **Multi-agent AI platform** — role-based CrewAI agents (Founder / Manager / Specialist) with long-term memory (Mem0 + Qdrant), Gemini context caching, and timezone-aware task scheduling. Runs in production across multiple organizations.
+- **Gemini context caching at scale** — pre-baking tools + system instructions into `CachedContent` per role per scenario, achieving a 75% token cost reduction on cached prompts across all agent turns.
+- **LangGraph checkpoint management** — custom interrupt-safe pruning strategy (`keep_last=N`) to prevent tool re-execution in multi-tool interrupt chains on `AsyncRedisSaver`.
 
-<p align="left">
-  <a href="https://github.com/Mukhsin0508">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mukhsin0508&show_icons=true&theme=radical" />
-  </a>
-</p>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhsin0508&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Mukhsin0508)
+## Open source contributions
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mukhsin0508&theme=highcontrast&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+| PR | Repo | What |
+|---|---|---|
+| [#1619](https://github.com/langchain-ai/langchain-google/pull/1619) | `langchain-ai/langchain-google` | Strip `tools`/`tool_config`/`system_instruction` from request when `cached_content` is set — production-tested fix for Gemini context caching with tool-calling agents |
+| [#159](https://github.com/redis-developer/langgraph-redis/issues/159) | `redis-developer/langgraph-redis` | Implementing `aprune()` / `prune()` with `keep_last=N` strategy for interrupt-safe checkpoint pruning in `AsyncRedisSaver` |
 
-## Github Trophies
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mukhsin0508&theme=algolia&column=5">
+## Stack
 
-## Wakatime Stats
-<p>
-  <img src="https://wakatime.com/share/@mukhsin/f627b0bc-90c7-4ab4-a394-aaa9f8a2db7f.svg" height="350" width="500">
-</p>
+**Core:** Python · FastAPI · LangGraph · CrewAI · LangChain  
+**AI:** Gemini (context caching) · OpenAI (Whisper, TTS) · Mem0 · Qdrant  
+**Infra:** PostgreSQL · Redis · Celery · Docker · SQLAlchemy (async)  
+**Tooling:** uv · Alembic · Ruff · mypy · pytest
 
-## Wakatime 
-<p>
-  <img src="https://wakatime.com/share/@60731bfe-5801-4003-b6ab-b7db12ed73d0/5e63070d-9aae-48e1-bff7-7f8cc4f78dd4.svg">
-</p>
+---
 
-### 📫 You can reach me here:  
-<a href="https://www.linkedin.com/in/mukhsin-mukhtorov-58b26221b/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/mukhsin.mukhtariy/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:muxsinmuxtorov01@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Mukhsin/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-</a>
-<a href="https://x.com/MukhsinMM7" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-<a href="https://www.hackerrank.com/profile/muxsinmuxtorov01" target="_blank">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-</a>
+## Reach me
 
-- - - -   
-
-### 👋 More About Me
-
-- 👀 I'm deeply interested in Python, Machine Learning, NLP, Django Web Dev, and Data Science.
-- 🌱 I'm currently learning advanced Machine Learning techniques and working on LLM projects.
-- 🔥 I'm currently working on a secret startup...
-- 💞️ I'm looking to collaborate on cre2ating LLMs...
-- 🌍 I've traveled to: Valencia (Spain), Moscow, Rostov-on-Don, and Sochi (Russia).
-- 💻 You can schedule a one-to-one meeting with me here: [Calendly](https://calendly.com/muxsinmuxtorov/30-min-onboarding-call)
-- 😄 Pronouns: His/him
-- ⚡ Fun fact: If you have an exciting project in mind, reach out to me. I can be on the way with you to make it a reality!
-
-### 🛠 Tools I Use
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-</body>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukhsin-mukhtorov-58b26221b/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/MukhsinMM7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muxsinmuxtorov01@gmail.com)
+[![Wakatime](https://wakatime.com/badge/user/60731bfe-5801-4003-b6ab-b7db12ed73d0.svg)](https://wakatime.com/@60731bfe-5801-4003-b6ab-b7db12ed73d0)
