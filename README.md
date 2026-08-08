@@ -11,8 +11,8 @@ AI infrastructure engineer. Building production multi-agent systems on LangGraph
 
 ## Open source contributions
 
-| PR | Repo | What | Status |
-| [#161](https://github.com/redis-developer/langgraph-redis/pull/161) | `redis-developer/langgraph-redis` | Implement `aprune()` / `prune()` with `keep_last=N` strategy for interrupt-safe checkpoint pruning in `AsyncRedisSaver` and `RedisSaver` | ✅ Merged |
+
+[#161](https://github.com/redis-developer/langgraph-redis/pull/161) | `redis-developer/langgraph-redis` | Implement `aprune()` / `prune()` with `keep_last=N` strategy for interrupt-safe checkpoint pruning in `AsyncRedisSaver` and `RedisSaver` | ✅ Merged |
 
 ---
 
